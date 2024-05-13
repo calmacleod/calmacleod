@@ -1,8 +1,6 @@
-Hi, I'm Callum!
+Hi, I'm Callum
 
-I'm currently finishing my final semester of Computer Science at Carleton University.
-
-I'm looking for full time roles beginning May 2023.
+I'm currently working at [Igniter Tickets](https://ignitertickets.com/) making response web applications using Ruby on Rails.
 
 <!---
 calmacleod/calmacleod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
